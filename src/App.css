@@ -5,3 +5,14 @@
 .movieList{
   margin: 20px;
 }
+
+.Header{
+  display: flex;
+  gap: 60px;
+  margin: 20px;
+}
+.cards{
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+}
